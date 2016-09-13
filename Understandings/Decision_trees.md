@@ -8,7 +8,7 @@ There are two types of decision trees in machine learning:
 
 Both of these have the same terminology applied to its component parts:
 
-
+![Decision tree terminology, from https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/](/images/Decision_Tree_Terminology.png)
 
 Each time a branch splits, the tree increases the homogeneity of the end nodes. How we choose to split the node into sub-nodes is up to us, but here are 4 examples of how we can do it:
   1. Gini index
